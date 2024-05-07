@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ambatron 3", "Ambatron 3\Am
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ambatron 4", "Ambatron 4\Ambatron 4.vcxproj", "{3242940A-BB36-47FA-A8D5-2D1514D045A5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ambatron 5", "Ambatron 5\Ambatron 5.vcxproj", "{A60A68A1-1469-4C52-992A-CBC6469FC97B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{3242940A-BB36-47FA-A8D5-2D1514D045A5}.Release|x64.Build.0 = Release|x64
 		{3242940A-BB36-47FA-A8D5-2D1514D045A5}.Release|x86.ActiveCfg = Release|Win32
 		{3242940A-BB36-47FA-A8D5-2D1514D045A5}.Release|x86.Build.0 = Release|Win32
+		{A60A68A1-1469-4C52-992A-CBC6469FC97B}.Debug|x64.ActiveCfg = Debug|x64
+		{A60A68A1-1469-4C52-992A-CBC6469FC97B}.Debug|x64.Build.0 = Debug|x64
+		{A60A68A1-1469-4C52-992A-CBC6469FC97B}.Debug|x86.ActiveCfg = Debug|Win32
+		{A60A68A1-1469-4C52-992A-CBC6469FC97B}.Debug|x86.Build.0 = Debug|Win32
+		{A60A68A1-1469-4C52-992A-CBC6469FC97B}.Release|x64.ActiveCfg = Release|x64
+		{A60A68A1-1469-4C52-992A-CBC6469FC97B}.Release|x64.Build.0 = Release|x64
+		{A60A68A1-1469-4C52-992A-CBC6469FC97B}.Release|x86.ActiveCfg = Release|Win32
+		{A60A68A1-1469-4C52-992A-CBC6469FC97B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
