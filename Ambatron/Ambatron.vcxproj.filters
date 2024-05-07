@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Ambatron.cpp">
+    <ClCompile Include="PointerdanFriendClass_0038.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
